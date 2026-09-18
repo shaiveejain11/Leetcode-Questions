@@ -47,3 +47,15 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 
 **Happy Coding! 🚀**
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
+<!---LeetCode Topics End-->
