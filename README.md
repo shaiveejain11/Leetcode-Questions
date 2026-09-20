@@ -69,4 +69,12 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0015-3sum) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
