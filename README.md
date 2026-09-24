@@ -77,4 +77,8 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
