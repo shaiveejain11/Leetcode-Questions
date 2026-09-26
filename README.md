@@ -74,13 +74,19 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
