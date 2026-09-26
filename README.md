@@ -65,6 +65,7 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0015-3sum) |
+| [0125-valid-palindrome](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -72,6 +73,7 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0125-valid-palindrome) |
 | [3498-reverse-degree-of-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
 |  |
