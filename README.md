@@ -56,6 +56,7 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 | [0015-3sum](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0015-3sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [3978-unique-middle-element](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/3978-unique-middle-element) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,4 +90,8 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Counting
+|  |
+| ------- |
+| [3978-unique-middle-element](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/3978-unique-middle-element) |
 <!---LeetCode Topics End-->
