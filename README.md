@@ -75,6 +75,7 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
@@ -93,5 +94,14 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [3978-unique-middle-element](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/3978-unique-middle-element) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
