@@ -54,6 +54,7 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [3978-unique-middle-element](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/3978-unique-middle-element) |
@@ -71,6 +72,7 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -101,6 +103,7 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
