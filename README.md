@@ -93,13 +93,7 @@ If you find this repository useful, consider giving it a ⭐. It motivates me to
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/3498-reverse-degree-of-a-string) |
-## Database
-|  |
-| ------- |
-| [0181-employees-earning-more-than-their-managers](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0181-employees-earning-more-than-their-managers) |
-| [0183-customers-who-never-order](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0183-customers-who-never-order) |
-| [0197-rising-temperature](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/0197-rising-temperature) |
-## Stack
+
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/shaiveejain11/Leetcode-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
